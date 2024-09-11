@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="0748a521-ab4f-4b99-9218-430de1c032f3">
+  <content>{
+  "value": "https://pptraningsazureb2c.b2clogin.com/5f22e0a6-5d54-46b9-b402-1ad3bc0ed90f/v2.0/,https://pptraningsazureb2c.b2clogin.com/tfp/5f22e0a6-5d54-46b9-b402-1ad3bc0ed90f/b2c_1_customerportalresetpassword/v2.0/",
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenIdConnect/AAD-B2C_1/ValidIssuers</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,21 @@
+<powerpagecomponent powerpagecomponentid="185c1e4d-43ce-435f-9e88-29160ce12308">
+  <content>{"copy":"&lt;p&gt;Please provide some information about yourself.&lt;/p&gt;\r\n\r\n&lt;p&gt;The &lt;strong&gt;First Name&lt;/strong&gt; and &lt;strong&gt;Last Name &lt;/strong&gt;you provide will be displayed alongside any comments, forum posts, or ideas you make on the site.&lt;/p&gt;\r\n\r\n&lt;p&gt;The &lt;strong&gt;Email Address&lt;/strong&gt; and &lt;strong&gt;Phone&lt;/strong&gt; number will not be displayed on the site.&lt;/p&gt;\r\n\r\n&lt;p&gt;Your &lt;strong&gt;Organization&lt;/strong&gt; and &lt;strong&gt;Title&lt;/strong&gt; are optional. They will be displayed with your comments and forum posts.&lt;/p&gt;","enablerating":false,"enabletracking":false,"excludefromsearch":false,"hiddenfromsitemap":true,"isroot":false,"pagetemplateid":"f2ccfad3-5c26-448f-b284-80a98ab58566","parentpageid":"225dbdc2-18f4-4f54-9ee0-66136440c08a","partialurl":"profile","publishingstateid":"a498dd95-8137-470a-ad63-d4950ef0e72b","rootwebpageid":"1926e9f8-385b-403a-bddd-93bc2f3b9252","sharedpageconfiguration":false,"title":"Profile"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Profile</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>484fabbd-04a9-449f-a5de-3dc1f588caa1</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>Profile&lt;p&gt;Please provide some information about yourself.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;First Name&lt;/strong&gt; and &lt;strong&gt;Last Name &lt;/strong&gt;you provide will be displayed alongside any comments, forum posts, or ideas you make on the site.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Email Address&lt;/strong&gt; and &lt;strong&gt;Phone&lt;/strong&gt; number will not be displayed on the site.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;Organization&lt;/strong&gt; and &lt;strong&gt;Title&lt;/strong&gt; are optional. They will be displayed with your comments and forum posts.&lt;/p&gt;Profile</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

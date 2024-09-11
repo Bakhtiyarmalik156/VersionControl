@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="5c717043-eb2f-4efd-817b-6ed3830fdc09">
+  <content>{"display_name":"Search/Results Count","value":"{{ current_page }} - {{ page_size }} of {{ searchindex.approximate_total_hits }} Results"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/ResultsCount</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>484fabbd-04a9-449f-a5de-3dc1f588caa1</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

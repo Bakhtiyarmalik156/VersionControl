@@ -1,0 +1,10 @@
+<powerpagecomponent powerpagecomponentid="b50d7063-54c4-4f70-bed7-cfda1b235373">
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenAuth/Facebook/AppSecret</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

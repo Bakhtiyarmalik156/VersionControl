@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="99d1a07e-9bf6-4dda-a24f-6c5bb9ac8a37">
+  <content>{
+  "value": "true",
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenIdConnect/AAD-B2C_1/ExternalLogoutEnabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

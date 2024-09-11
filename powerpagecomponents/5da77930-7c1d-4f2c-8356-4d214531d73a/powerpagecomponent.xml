@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="5da77930-7c1d-4f2c-8356-4d214531d73a">
+  <content>{"display_name":"Search/Results Title","value":"Results for {{ request.params.q }}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/ResultsTitle</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>484fabbd-04a9-449f-a5de-3dc1f588caa1</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

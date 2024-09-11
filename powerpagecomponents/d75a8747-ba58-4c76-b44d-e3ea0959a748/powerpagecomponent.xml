@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="d75a8747-ba58-4c76-b44d-e3ea0959a748">
+  <content>{
+  "value": "aa630893-5abf-44ea-b6b7-da478baf4bea",
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenIdConnect/AAD-B2C_1/ClientId</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,29 @@
+<powerpagecomponent powerpagecomponentid="313b6ba3-dbbd-a29e-1ea1-362d747a24f6">
+  <content>{
+  "displayorder": 2,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "c7b47b60-724b-48f3-ad82-e7230011f3e4",
+  "parentpageid": "f8efba8c-4142-4a21-9b26-49bec251172f",
+  "partialurl": "gdd-deleted",
+  "isroot": true,
+  "title": "gdd",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "",
+  "publishingstateid": "dfd3fdda-53f8-4303-8af9-e0e0be54601a",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>gdd-deleted</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>gddgdd-deleted</searchcontent>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>
