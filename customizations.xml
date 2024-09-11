@@ -12,5 +12,7 @@
   <EntityDataProviders />
   <Languages>
     <Language>1033</Language>
+    <Language>2052</Language>
+    <Language>1066</Language>
   </Languages>
 </ImportExportXml>
