@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="1775d34c-de84-4d3c-86b9-fe777e2f1dd8">
+  <content>{"source":"&lt;!-- Default studio template. Please do not modify --&gt;\r\n&lt;div id=\"mainContent\" class=\"wrapper-body\" role=\"main\"&gt;\r\n    &lt;div class=\"page-copy\"&gt;\r\n      {% editable page 'adx_copy' type: 'html', liquid: true %}\r\n    &lt;/div&gt;\r\n&lt;/div&gt;"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Default studio template</name>
+  <powerpagecomponenttype>8</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

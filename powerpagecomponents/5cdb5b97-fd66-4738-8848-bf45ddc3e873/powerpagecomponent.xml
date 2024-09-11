@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="5cdb5b97-fd66-4738-8848-bf45ddc3e873">
+  <content>{"description":"A true or false value. If set to true, the Last Successful Login field on the portal user’s contact will be updated with the date and time when they successfully signed in.","value":"False"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/LoginTrackingEnabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

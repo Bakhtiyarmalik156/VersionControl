@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="3688e704-1ea0-4506-85e6-3696d9a43717">
+  <content>{"description":"Site setting that controls the depth of the webpage hierarchy that’s cloned in a newly-added supported language. Web link sets and content snippets are cloned in the newly-added language when webpages are cloned.","value":"3"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>MultiLanguage/MaximumDepthToClone</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

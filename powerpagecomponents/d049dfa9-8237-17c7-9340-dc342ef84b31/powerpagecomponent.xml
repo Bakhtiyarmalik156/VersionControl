@@ -1,0 +1,29 @@
+<powerpagecomponent powerpagecomponentid="d049dfa9-8237-17c7-9340-dc342ef84b31">
+  <content>{
+  "displayorder": 2,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "e557e639-f619-4561-b552-c0919c302630",
+  "parentpageid": "225dbdc2-18f4-4f54-9ee0-66136440c08a",
+  "partialurl": "Test-Page-2",
+  "isroot": true,
+  "title": "Test Page 2",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "",
+  "publishingstateid": "a498dd95-8137-470a-ad63-d4950ef0e72b",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Test Page 2</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>Test Page 2Test Page 2</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="a35026a1-6b70-ef11-a670-6045bd03dc2e">
+  <content>{"value":"True"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/EnableGenerativeAI</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

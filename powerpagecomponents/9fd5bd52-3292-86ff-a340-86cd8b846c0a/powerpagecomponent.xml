@@ -1,0 +1,19 @@
+<powerpagecomponent powerpagecomponentid="9fd5bd52-3292-86ff-a340-86cd8b846c0a">
+  <content>{
+  "type": 756150000,
+  "display_name": "Site name",
+  "value": "Company name",
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Site name</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>45a1e2a6-8b80-4729-b99e-67f4e88f7a77</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

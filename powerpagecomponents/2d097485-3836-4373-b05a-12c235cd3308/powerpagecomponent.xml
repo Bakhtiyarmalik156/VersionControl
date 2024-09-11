@@ -1,0 +1,12 @@
+<powerpagecomponent powerpagecomponentid="2d097485-3836-4373-b05a-12c235cd3308">
+  <content>{"displayorder":1,"enabletracking":false,"excludefromsearch":true,"hiddenfromsitemap":true,"parentpageid":"f8efba8c-4142-4a21-9b26-49bec251172f","partialurl":"bootstrap.min.css","publishingstateid":"dfd3fdda-53f8-4303-8af9-e0e0be54601a"}</content>
+  <filecontent mimetype="application/octet-stream">bootstrap.min.css</filecontent>
+  <iscustomizable>1</iscustomizable>
+  <name>bootstrap.min.css</name>
+  <powerpagecomponenttype>3</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

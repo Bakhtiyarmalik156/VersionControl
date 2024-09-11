@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="8023dddc-9b70-4fd0-b47e-b72fc2ae8131">
+    <content>{"defaultlanguage":"484fabbd-04a9-449f-a5de-3dc1f588caa1","footerwebtemplateid":"b5674cf0-5abf-444f-b682-158756aae5bc","headerwebtemplateid":"6bbec5a2-abf6-40c6-b731-8b8895aa0d8e","website_language":1033,"defaultbotconsumerid":"015c5266-7470-ef11-a670-0022480a5af3"}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>TestForVersionControl - VersionControl</name>
+    <primarydomainname>VersionControl.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

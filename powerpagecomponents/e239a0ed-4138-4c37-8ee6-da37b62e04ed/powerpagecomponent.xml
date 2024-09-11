@@ -1,0 +1,10 @@
+<powerpagecomponent powerpagecomponentid="e239a0ed-4138-4c37-8ee6-da37b62e04ed">
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenAuth/Microsoft/ClientId</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8023dddc-9b70-4fd0-b47e-b72fc2ae8131</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

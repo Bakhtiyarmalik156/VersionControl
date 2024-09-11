@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="12845268-9d8d-4d64-8524-35222a0c15f5">
+  <content>{"description":"Used to group a set of entities under an entry in the record type facet view.","value":"Downloads:annotation,adx_webfile"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/RecordTypeFacetsEntities</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

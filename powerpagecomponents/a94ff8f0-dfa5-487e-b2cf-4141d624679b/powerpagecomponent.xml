@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="a94ff8f0-dfa5-487e-b2cf-4141d624679b">
+  <content>{
+  "value": "B2C_1_CustomerPortalResetPassword",
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/OpenIdConnect/AAD-B2C_1/PasswordResetPolicyId</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>dc7536dd-8087-4219-b6fd-6fe059037c80</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
